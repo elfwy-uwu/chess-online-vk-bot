@@ -1,0 +1,27 @@
+{
+  "name": "yt-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "/server/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "atob": "^2.1.2",
+    "body-parser": "^1.19.0",
+    "botact": "^2.4.2",
+    "cors": "^2.8.5",
+    "cross-blob": "^1.2.2",
+    "express": "^4.17.1",
+    "form-data": "^3.0.0",
+    "fs": "0.0.1-security",
+    "http-server": "^0.12.1",
+    "node-vk-bot-api": "^3.3.4",
+    "request": "^2.88.2",
+    "ws": "^7.2.3",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "devDependencies": {}
+}
